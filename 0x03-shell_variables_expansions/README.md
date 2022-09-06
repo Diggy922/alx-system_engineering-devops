@@ -1,1 +1,1 @@
-script that prints every other line from the input, starting with the first line
+Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program
